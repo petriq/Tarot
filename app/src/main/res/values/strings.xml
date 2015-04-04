@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Tarot</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_card_detail">CardDetailActivity</string>
+
+    <string name="positive_meaning_caption">Pozitívny význam</string>
+    <string name="negative_meaning_caption">Negatívny význam</string>
+
+    <string name="card00_name">Blázon</string>
+    <string name="card01_name">Mág</string>
+    <string name="card02_name">Veľkňažka</string>
+    <string name="card03_name">Cisárovna</string>
+    <string name="card04_name">Cisár</string>
+    <string name="card05_name">Veľkňaz</string>
+    <string name="card06_name">Milenci</string>
+    <string name="card07_name">Voz</string>
+    <string name="card08_name">Sila</string>
+    <string name="card09_name">Pustovník</string>
+    <string name="card10_name">Koleso šťastia</string>
+    <string name="card11_name">Spravodlivosť</string>
+    <string name="card12_name">Obesenec</string>
+    <string name="card13_name">Smrť</string>
+    <string name="card14_name">Miernosť</string>
+    <string name="card15_name">Diabol</string>
+    <string name="card16_name">Veža</string>
+    <string name="card17_name">Hviezda</string>
+    <string name="card18_name">Mesiac</string>
+    <string name="card19_name">Slnko</string>
+    <string name="card20_name">Posledný súd</string>
+    <string name="card21_name">Svet</string>
+
+    <string name="card00_positive">otvorenosť, úprimnosť, nekonvenčnosť, nezávislosť, sloboda, skok do neznáma, nečakané nové možnosti, pozitívna a príjemna zmena, dobrodružstvo, výzva, odvaha, bezstarostnosť, bláznivá zaľúbenosť, nadšené vrhnutie sa do vzťahu</string>
+    <string name="card01_positive">zručnosť, inteligencia, racionalita, sila, vôľa, tvorivosť, originalita, dipolomacia, vynaliezavosť, sebavedomie a sebauvedomenie, mnohostrannosť, plné využitie príležitostí, život podľa vlastných predstáv, jasné ciele</string>
+    <string name="card02_positive">silná intuícia, duchovná sila, múdrosť, pochopenie pre ddruhých, súcitnosť, láskavosť, liečiteľské schopnosti, trpezlivosť, tajuplnosť</string>
+    <string name="card03_positive">silno vyvinutá ženská stránka alebo potreba nadviazať s ňou kontakt, potreba cítiť sa a prejavovať ako žena, u muža túžba po vytúženej žene, srdečnosť, bohatý citový život, zvodnosť, plodnosť, zmysel pre rodinu, materstvo, tehotenstvo, pôrod, hojnosť, schopnosť dávať aj prijímať, zmysel pre krásu</string>
+    <string name="card04_positive">silný muž, aktívna mužská stránka, otec, prirodzená autorita, silná vôľa, rozhodnosť, odhodlanie, dôvera vo vlastné sily, vedúce a organizačné schopnosti, praktickosť, vecnosť, neoblomnosť, sebaistota, uchopenie osudu do vlastných rúk</string>
+    <string name="card05_positive">duchovný majster, učiteľ, terapeut, kňaz, vnútorná sila, sebapoznanie, zodpovednosť, rozvážnosť, sobáš, manželstvo</string>
+    <string name="card06_positive">dobré rozhodnutie, skúška, láska, manželstvo, spojenie, stretnutie, životná križovatka, sexuálna príťažlivosť, rohodnutie v oblasti partnerstva</string>
+    <string name="card07_positive">veľké (pozitívne, vytúžené) zmeny, dynamika, odvaha, nekompromisné jedanie vo vlastnom záujme, sila ducha, dobrovoľný odchod do neznáma, nové začiatky, prekonanie ťažkostí, nový pozitívny vzťah, ktorý človeka posunie vpred</string>
+    <string name="card08_positive">sila, sila vôle, poznanie a úsudok, energia, odvaha, fyzická aktivita, zdravá sexualita, vytrvalosť, úspech, dynamika, schopnosť využiť vhodný okamih</string>
+    <string name="card09_positive">prehodnocovanie predstavy o sebe a o svete, ponorenie sa do seba, hľadanie správnej cesty, úspech pri vzdelávaní, záujem o duchovné náuky, nezávislosť, zrelosť, múdrosť, vnútorný mier</string>
+    <string name="card10_positive">šťastné zmeny, vytúžený výsledok, zásah osudu dobrým smerom, nová príležitosť, šťastná šanca, úspech, hojnosť, výhra, odmena</string>
+    <string name="card11_positive">spravodlivosť, rovnováha, poctivosť, následok nášho konania, súdne procesy, zmluvy, pravda, čestnosť, rozvážnosť, nestrannosť, správne riešenie, objektivita</string>
+    <string name="card12_positive">zmena smeru, nový pohľad na svet, skúška, duchovný rast, obeta, obrátenie hodnôt, kríza, potreba radikálne zmeniť svoj postoj, prijatie osudu, koniec určitého obdobia</string>
+    <string name="card13_positive">ukončenie (práce, etapy života, ťažkého obdobia), závažná ale pozitívna zmena (môže ale nemusí byť vítaná), prirodzený koniec, príprava na nové začiatky</string>
+    <string name="card14_positive">harmónia, harmonická a postupná zmena, uzdravenie, kompromis, rovnováha, jemnosť, súlad, vyrovnanie, spriaznenosť duší</string>
+    <string name="card15_positive">schopnosť odvládať hmotnú realitu, telesné túžby, silná osobnosť, veľký vplýv na druhých, manipulácia, vedomé využívanie temných stránok</string>
+    <string name="card16_positive">zrútenie starých ideí a plánov, náhle zmeny, nečakané udalosti, oslobodenie od ťaživej situácie, drastické zmeny, koniec stagnácie, strhnutie masiek</string>
+    <string name="card17_positive">nádej, zrušenie zlých vplyvov, priaznivý vývoj, uzdravenie, splnenie priania, nový začiatok, spriaznená duša, šťastná budúcnosť, spoľahlivosť, nádej, sláva, ten pravý partner</string>
+    <string name="card18_positive">varovanie pred nástrahami, inšpirácia, snenie, vplyv skrytých síl, neodolateľná príťažlivosť, nostalgia, predtucha</string>
+    <string name="card19_positive">úspech, zisk, rast, šťastie, radosť, zdravie, povýšenie, manželstvo, rodinná pohoda, dieťa, uzdravenie, koniec problémov, výsledok podľa želania</string>
+    <string name="card20_positive">možnosť východiska, pokrok, nové začiatky, vyriešenie problému, splnenie cieľov, narodenie dieťaťa, koniec konfliktu, oslobodenie, uzdravenie, zmena, pochopenie, nové možnosti</string>
+    <string name="card21_positive">dosiahnutie cieľa, úspech, dokončenie vecí, istota, správne miesto, správny postoj, štastný koniec, nový začiatok, postup, spokojnosť, dlhodobý vzťah, správne rozhodnutie, ten pravý/tá pravá</string>
+
+    <string name="card00_negative">bláznovstvo, naivita, nezodpovednosť, podceňovanie situácie, brať veci na ľahkú váhu, bezcieľnosť, nenaplnený život</string>
+    <string name="card01_negative">zneužitie moci a schopností, snaha manipulovať a mať moc, využívanie iných, uspokojovanie svojich potrieb na úkor druhých, preceňovanie svojich síl a možností, prehnané sebavedomie, podvádzanie, sebectvo, intrigy</string>
+    <string name="card02_negative">pretvárka, pomsta, pasivita, nesprávny úsudok, nezvládnuté emócie, ilúzie, precitlivenosť, apatia</string>
+    <string name="card03_negative">márnivosť, povrchnosť, nevera, voľba partnera zo ziskuchtivosti, neschopnosť riešiť problémy, panovačnosť, citové vydieranie, emocionálna manipulácia, žiarlivosť, dominancia, vlastnícke sklony v partnerstve, erotická neviazanosť</string>
+    <string name="card04_negative">despota, zneužitie moci, presadzovanie vlastných záujmov na úkor ostatných, dominancia, túžba po moci, zastrašovanie, neschopnosť spolupráce, bezmocnosť, nedostatok zodpovednosti</string>
+    <string name="card05_negative">fanatizmus, falošný vodca, zlá rada, nedostatok tolerancie, pokrytectvo</string>
+    <string name="card06_negative">sklamanie v láske, neúspešná skúška, nevera, zlé rozhodnutie, konflikt, nerozhodnosť,, žiarlivosť, nenávisť, vyhľadávanie akéhokoľvek partnera zo strachu zo samoty, rozchod, rozpad vzťahu</string>
+    <string name="card07_negative">porážka, vzdor, problémy, pomsta, nerozvážnosť, ľahkomyselnosť, stresové situácie, hádka, spor, premárnenie vhodnej chvíle, náhly neúspech</string>
+    <string name="card08_negative">zneužitie moci, strata energie, fyzické problémy, nerovnováha (fyzická, duševná), únava, vyčerpanosť, násilie, konflikt, podceňovanie podstaty problému</string>
+    <string name="card09_negative">samota, opustenosť, smútok, útek pred realitou, podivínstvo, odcudzenie vo vťahu, vnútorná práznota, nedostatok radosti zo života, depresia</string>
+    <string name="card10_negative">nešťastie, nestabilita, nepriazeň osudu, náhly obrat zlým smerom, rozchod, strata, nepriazeň osudu, nestálosť, prehra, neistota</string>
+    <string name="card11_negative">nespravodlivosť, zaujatosť, faloš, problémy so súdmi, prehra, nepríjemnosti so zákonom, nevyrovnaný vzťah, obmedzenosť, neschopnosť odpustiť</string>
+    <string name="card12_negative">stagnácia, závoslosť a neschopnosť sa jej vzdať, straty, tresty, nešťastie, náhla choroba, vynútený odpočinok, plytvanie energiou, vnútorný konflikt, psychické napätie, ukončenie vzťahu, pasivita, bezmocnosť, beznádej, zúfalstvo, závislosti</string>
+    <string name="card13_negative">bolestná skúsenosť, rozlúčka, smútok, neúspech, nešťastie, choroba, strata (vzťahu, práce a pod.), drastické náhle zmeny, strach z nových vecí, strach, odmietanie nevyhnutných životných zmien</string>
+    <string name="card14_negative">disharmónia, stratená šanca, prekročiť mieru, konflikty, striedanie extrémov, unáhlené neuvážené rozhodnutia, nevhodné jednanie, rozchod, plytvanie</string>
+    <string name="card15_negative">moc, byť ovládaný, pokušenie, slabá vôľa, zdanlivo príťažlivé riešenia, zlo, manipulácia, ovládanie a využívanie druhých, neúprimnosť, povrchná sexualita, závislosti</string>
+    <string name="card16_negative">nešťastie, neúspech, choroba, nehoda, udalosti nepôjdu podľa našich predstáv, rozchod, hádky, strata istoty</string>
+    <string name="card17_negative">sklamanie, stratená príležitosť, odtrhnutie od reality, falošné nádeje, egocentrizmus, sklamanie, beznádejná láska</string>
+    <string name="card18_negative">neistota, sebeklam, dôvera v niečo, čo neexistuje, neznáme nebezpečenstvo, smútok, duševná kríza, ohováranie, omyly, pasivita, chaos, psychické poruchy, nebezpečné vzťahy, ilúzie, povrchnosť</string>
+    <string name="card19_negative">sklamanie, prílišná aktivita, nevyužitá energia, lenivosť, nezodpovednosť, detinský postoj, čisto hmotné záujmy</string>
+    <string name="card20_negative">strata príležitosti, nepremyslený čin s negatívnymi dôsledkami, rozchod, smutný koniec, dlhodobé zdravotné ťažkosti</string>
+    <string name="card21_negative">neschopnosť dokončiť, čo sa začalo, nie je miesto pre ďalší rozvoj, stagnácia, neochoda, nedostatok sebadôvery, nespokojnosť s výsledkom</string>
+    <string name="title_activity_card_preview">CardPreviewActivity</string>
+
+</resources>
